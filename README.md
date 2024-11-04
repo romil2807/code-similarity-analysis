@@ -135,5 +135,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/code-similarity-analysis
+Your Name - Romil Shah
+Project Link: https://github.com/romil2807/code-similarity-analysis
